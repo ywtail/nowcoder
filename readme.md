@@ -8,5 +8,7 @@
 - 6.py  [串的模式匹配](https://www.nowcoder.com/practice/084b6cb2ca934d7daad55355b4445f8a?tpId=49&tqId=29363&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 7.py  [顺时针旋转矩阵](https://www.nowcoder.com/practice/2e95333fbdd4451395066957e24909cc?tpId=49&tqId=29373&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 8.py  [抛小球](https://www.nowcoder.com/practice/ae45a1d8bc1d43858c83762fe8c2802c?tpId=49&tqId=29306&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+- 9.py  [数组单调和](https://www.nowcoder.com/practice/8397609ba7054da382c4599d42e494f3?tpId=49&tqId=29364&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+
 
 
