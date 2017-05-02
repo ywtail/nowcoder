@@ -10,5 +10,5 @@
 - 8.py  [抛小球](https://www.nowcoder.com/practice/ae45a1d8bc1d43858c83762fe8c2802c?tpId=49&tqId=29306&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 9.py  [数组单调和](https://www.nowcoder.com/practice/8397609ba7054da382c4599d42e494f3?tpId=49&tqId=29364&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 10.py [字符串通配](https://www.nowcoder.com/practice/28acd1134e344040ad105b3786a79e7a?tpId=49&tqId=29355&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
-
+- 11.py [左右最值最大差](https://www.nowcoder.com/practice/f5805cc389394cf69d89b29c0430ff27?tpId=49&tqId=29359&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 
