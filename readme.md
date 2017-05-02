@@ -6,5 +6,7 @@
 - 4.py  [首个重复字符](https://www.nowcoder.com/practice/dab59997905b4459a42587fece8a75f4?tpId=49&tqId=29279&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 5.py  [血型遗传检测](https://www.nowcoder.com/practice/5541c433dee04c17ba7774c4a20430de?tpId=49&tqId=29303&tPage=3&rp=3&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 6.py  [串的模式匹配](https://www.nowcoder.com/practice/084b6cb2ca934d7daad55355b4445f8a?tpId=49&tqId=29363&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+- 7.py  [顺时针旋转矩阵](https://www.nowcoder.com/practice/2e95333fbdd4451395066957e24909cc?tpId=49&tqId=29373&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+- 8.py  [抛小球](https://www.nowcoder.com/practice/ae45a1d8bc1d43858c83762fe8c2802c?tpId=49&tqId=29306&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 
 
