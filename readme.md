@@ -13,3 +13,5 @@
 - 11.py [左右最值最大差](https://www.nowcoder.com/practice/f5805cc389394cf69d89b29c0430ff27?tpId=49&tqId=29359&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 12.py [年终奖](https://www.nowcoder.com/practice/72a99e28381a407991f2c96d8cb238ab?tpId=49&tqId=29305&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 13.py [最长公共子序列](https://www.nowcoder.com/practice/c996bbb77dd447d681ec6907ccfb488a?tpId=49&tqId=29348&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+- 14.py [最长公共子串](https://www.nowcoder.com/practice/02e7cc263f8a49e8b1e1dc9c116f7602?tpId=49&tqId=29349&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+
