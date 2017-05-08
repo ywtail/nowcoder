@@ -14,4 +14,6 @@
 - 12.py [年终奖](https://www.nowcoder.com/practice/72a99e28381a407991f2c96d8cb238ab?tpId=49&tqId=29305&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 13.py [最长公共子序列](https://www.nowcoder.com/practice/c996bbb77dd447d681ec6907ccfb488a?tpId=49&tqId=29348&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 14.py [最长公共子串](https://www.nowcoder.com/practice/02e7cc263f8a49e8b1e1dc9c116f7602?tpId=49&tqId=29349&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+- 15.py [股票交易日](https://www.nowcoder.com/practice/3e8c66829a7949d887334edaa5952c28?tpId=49&tqId=29317&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+
 
