@@ -28,7 +28,7 @@ print longestsubstring.findLongest("1AB2345CD", 9, "12345EF", 7)
 
 **测试样例**
 
->["1AB2345CD",9,"12345EF",7
+>"1AB2345CD",9,"12345EF",7
 返回：4
 
 - findLongest(self, A, n, B, m):
