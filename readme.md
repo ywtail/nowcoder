@@ -17,4 +17,6 @@
 - 15.py [股票交易日](https://www.nowcoder.com/practice/3e8c66829a7949d887334edaa5952c28?tpId=49&tqId=29317&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 16.py [之字形打印矩阵](https://www.nowcoder.com/practice/7df39c7556424eada267d8f793961a1e?tpId=49&tqId=29374&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 17.py [相邻最大差值](https://www.nowcoder.com/practice/376ede61d9654bc09dd7d9fa9a4b0bcd?tpId=49&tqId=29366&tPage=2&rp=2&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+- 18.py [最长递增子序列](https://www.nowcoder.com/practice/585d46a1447b4064b749f08c2ab9ce66?tpId=49&tqId=29347&tPage=2&rp=2&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+
 
