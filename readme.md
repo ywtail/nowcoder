@@ -18,5 +18,7 @@
 - 16.py [之字形打印矩阵](https://www.nowcoder.com/practice/7df39c7556424eada267d8f793961a1e?tpId=49&tqId=29374&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 17.py [相邻最大差值](https://www.nowcoder.com/practice/376ede61d9654bc09dd7d9fa9a4b0bcd?tpId=49&tqId=29366&tPage=2&rp=2&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 18.py [最长递增子序列](https://www.nowcoder.com/practice/585d46a1447b4064b749f08c2ab9ce66?tpId=49&tqId=29347&tPage=2&rp=2&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+- 19.py [字符串的旋转](https://www.nowcoder.com/practice/85062aa6016640d188a6a0daf9f5da0e?tpId=49&tqId=29375&tPage=2&rp=2&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
+
 
 
