@@ -20,5 +20,6 @@
 - 18.py [最长递增子序列](https://www.nowcoder.com/practice/585d46a1447b4064b749f08c2ab9ce66?tpId=49&tqId=29347&tPage=2&rp=2&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 19.py [字符串的旋转](https://www.nowcoder.com/practice/85062aa6016640d188a6a0daf9f5da0e?tpId=49&tqId=29375&tPage=2&rp=2&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
 - 20.py [二维数组打印](https://www.nowcoder.com/practice/6fadc1dac83a443c9434f350a5803b51?tpId=49&tqId=29316&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
-- 21.py [倒水](https://www.nowcoder.com/test/question/3f8c8d5131fa4ebe8de31b7dbc015cde?pid=5523985&tid=8836602)
-- 22.py [身体训练](https://www.nowcoder.com/question/next?pid=5523985&qid=105013&tid=8836602)
+- 21.py [倒水](https://www.nowcoder.com/discuss/28582)
+- 22.py [身体训练](https://www.nowcoder.com/discuss/28582)
+- 23.py [阶乘尾零](https://www.nowcoder.com/practice/434922f9f4724b97b83c417e884008f1?tpId=8&&tqId=11058&rp=1&ru=/activity/oj&qru=/ta/cracking-the-coding-interview/question-ranking)
