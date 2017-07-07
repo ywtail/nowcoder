@@ -24,3 +24,4 @@
 - 22.py [身体训练](https://www.nowcoder.com/discuss/28582)
 - 23.py [阶乘尾零](https://www.nowcoder.com/practice/434922f9f4724b97b83c417e884008f1?tpId=8&&tqId=11058&rp=1&ru=/activity/oj&qru=/ta/cracking-the-coding-interview/question-ranking)
 - 24.py [n的阶乘](https://www.nowcoder.com/practice/97be22ee50b14cccad2787998ca628c8?tpId=40&&tqId=21348&rp=1&ru=/activity/oj&qru=/ta/kaoyan/question-ranking)
+- 25.py [N的阶乘](https://www.nowcoder.com/practice/f54d8e6de61e4efb8cce3eebfd0e0daa?tpId=40&&tqId=21355&rp=1&ru=/activity/oj&qru=/ta/kaoyan/question-ranking) 题目与24相同，只是N的范围扩大到了 1000
