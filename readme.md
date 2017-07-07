@@ -23,3 +23,4 @@
 - 21.py [倒水](https://www.nowcoder.com/discuss/28582)
 - 22.py [身体训练](https://www.nowcoder.com/discuss/28582)
 - 23.py [阶乘尾零](https://www.nowcoder.com/practice/434922f9f4724b97b83c417e884008f1?tpId=8&&tqId=11058&rp=1&ru=/activity/oj&qru=/ta/cracking-the-coding-interview/question-ranking)
+- 24.py [n的阶乘](https://www.nowcoder.com/practice/97be22ee50b14cccad2787998ca628c8?tpId=40&&tqId=21348&rp=1&ru=/activity/oj&qru=/ta/kaoyan/question-ranking)
