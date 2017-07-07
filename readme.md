@@ -28,4 +28,4 @@
 - 26.py [阶乘](https://www.nowcoder.com/practice/e58c8a55162d49c48115bdfa5da7da56?tpId=40&&tqId=21561&rp=1&ru=/activity/oj&qru=/ta/kaoyan/question-ranking)
 - 27.py [最大公约数](https://www.nowcoder.com/practice/20216f2c84bc438eb5ef05e382536fd3?tpId=64&&tqId=29608&rp=1&ru=/activity/oj&qru=/ta/hit-kaoyan/question-ranking)
 - 28.py [回文字符串](https://www.nowcoder.com/practice/df00c27320b24278b9c25f6bb1e2f3b8?tpId=69&&tqId=29674&rp=1&ru=/activity/oj&qru=/ta/hust-kaoyan/question-ranking)
-- 29.py [回文串](https://www.nowcoder.com/practice/655a43d702cd466093022383c24a38bf?tpId=49&&tqId=29295&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking)
+- 29.py [回文串](https://www.nowcoder.com/practice/655a43d702cd466093022383c24a38bf?tpId=49&&tqId=29295&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking) 添加一个字符能否变为回文串
