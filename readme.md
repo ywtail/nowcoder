@@ -31,3 +31,4 @@
 - 29.py [回文串](https://www.nowcoder.com/practice/655a43d702cd466093022383c24a38bf?tpId=49&&tqId=29295&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking) 添加一个字符能否变为回文串
 - 30.py [最长回文子串](https://www.nowcoder.com/practice/b4525d1d84934cf280439aeecc36f4af?tpId=49&&tqId=29360&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking)
 - 31.py [添加回文串](https://www.nowcoder.com/practice/cfa3338372964151b19e7716e19987ac?tpId=49&&tqId=29361&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking) 在原串末尾添加字符串使其变为回文串，求末尾添加的最短字符串
+- 32.py [链表的回文结构](https://www.nowcoder.com/practice/d281619e4b3e4a60a2cc66ea32855bfa?tpId=49&&tqId=29370&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking)
