@@ -36,3 +36,4 @@
 - 34.py [杨辉三角形](https://www.nowcoder.com/practice/ef7f264886a14fdf8a6ed3ac008a23c8?tpId=68&&tqId=29650&rp=1&ru=/activity/oj&qru=/ta/nwpu-kaoyan/question-ranking)
 - 35.py [判断三角形类型](https://www.nowcoder.com/practice/1521dea0744c46ad8c31b0bd860625d0?tpId=64&&tqId=29606&rp=1&ru=/activity/oj&qru=/ta/hit-kaoyan/question-ranking)
 - 36.py [字符串最后一个单词的长度](https://www.nowcoder.com/practice/8c949ea5f36f422594b306a2300315da?tpId=37&&tqId=21224&rp=1&ru=/activity/oj&qru=/ta/huawei/question-ranking)
+- 37.py [字符串分隔](https://www.nowcoder.com/practice/d9162298cb5a437aad722fccccaae8a7?tpId=37&&tqId=21227&rp=1&ru=/activity/oj&qru=/ta/huawei/question-ranking) 按长度8拆分字符串，长度达不到8用0补全
