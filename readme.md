@@ -34,3 +34,5 @@
 - 32.py [链表的回文结构](https://www.nowcoder.com/practice/d281619e4b3e4a60a2cc66ea32855bfa?tpId=49&&tqId=29370&rp=1&ru=/activity/oj&qru=/ta/2016test/question-ranking)
 - 33.py [三角形的边](https://www.nowcoder.com/practice/05dbd1cd43b24dbbae567b3e816d4e97?tpId=65&&tqId=29620&rp=1&ru=/activity/oj&qru=/ta/jlu-kaoyan/question-ranking)
 - 34.py [杨辉三角形](https://www.nowcoder.com/practice/ef7f264886a14fdf8a6ed3ac008a23c8?tpId=68&&tqId=29650&rp=1&ru=/activity/oj&qru=/ta/nwpu-kaoyan/question-ranking)
+- 35.py [判断三角形类型](https://www.nowcoder.com/practice/1521dea0744c46ad8c31b0bd860625d0?tpId=64&&tqId=29606&rp=1&ru=/activity/oj&qru=/ta/hit-kaoyan/question-ranking)
+- 36.py [字符串最后一个单词的长度](https://www.nowcoder.com/practice/8c949ea5f36f422594b306a2300315da?tpId=37&&tqId=21224&rp=1&ru=/activity/oj&qru=/ta/huawei/question-ranking)
