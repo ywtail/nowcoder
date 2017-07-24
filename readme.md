@@ -41,3 +41,4 @@
 - 39.py [字符串反转](https://www.nowcoder.com/practice/e45e078701ab4e4cb49393ae30f1bb04?tpId=37&&tqId=21235&rp=1&ru=/activity/oj&qru=/ta/huawei/question-ranking)
 - 40.py [基本字符串压缩](https://www.nowcoder.com/practice/21f3a84300c94db092e0b5a7bf2d0ad1?tpId=8&&tqId=10998&rp=1&ru=/activity/oj&qru=/ta/cracking-the-coding-interview/question-ranking)
 - 41.py [把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&&tqId=11202&rp=1&ru=/activity/oj&qru=/ta/coding-interviews/question-ranking)
+- 42.py [明明的随机数](https://www.nowcoder.com/practice/3245215fffb84b7b81285493eae92ff0?tpId=37&tqId=21226&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
