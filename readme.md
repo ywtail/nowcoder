@@ -43,3 +43,4 @@
 - 41.py [把字符串转换成整数](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&&tqId=11202&rp=1&ru=/activity/oj&qru=/ta/coding-interviews/question-ranking)
 - 42.py [明明的随机数](https://www.nowcoder.com/practice/3245215fffb84b7b81285493eae92ff0?tpId=37&tqId=21226&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
 - 43.py [计算字符个数](https://www.nowcoder.com/practice/a35ce98431874e3a820dbe4b2d0508b1?tpId=37&tqId=21225&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
+- 44.py [进制转换](https://www.nowcoder.com/practice/8f3df50d2b9043208c5eed283d1d4da6?tpId=37&tqId=21228&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
