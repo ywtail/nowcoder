@@ -47,3 +47,4 @@
 - 45.py [取近似值](https://www.nowcoder.com/practice/3ab09737afb645cc82c35d56a5ce802a?tpId=37&tqId=21230&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
 - 46.py [合并表记录](https://www.nowcoder.com/practice/de044e89123f4a7482bd2b214a685201?tpId=37&tqId=21231&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
 - 47.py [提取不重复的整数](https://www.nowcoder.com/practice/253986e66d114d378ae8de2e6c4577c1?tpId=37&tqId=21232&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
+- 48.py [最高分是多少](https://www.nowcoder.com/practice/3897c2bcc87943ed98d8e0b9e18c4666?tpId=49&tqId=29275&tPage=1&rp=1&ru=/ta/2016test&qru=/ta/2016test/question-ranking)
