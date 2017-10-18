@@ -51,3 +51,4 @@
 - 49.py [查找两个字符串a,b中的最长公共子串](https://www.nowcoder.com/practice/181a1a71c7574266ad07f9739f791506?tpId=37&&tqId=21288&rp=1&ru=/activity/oj&qru=/ta/huawei/question-ranking)
 - 50.py [连续子数组的最大和](https://www.nowcoder.com/practice/459bd355da1549fa8a49e350bf3df484?tpId=13&&tqId=11183&rp=1&ru=/activity/oj&qru=/ta/coding-interviews/question-ranking)
 - 51.py [连续最大和](https://www.nowcoder.com/practice/5a304c109a544aef9b583dce23f5f5db?tpId=85&&tqId=29858&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking)
+- 52.py [句子反转](https://www.nowcoder.com/practice/0ae4a12ab0a048ee900d1536a6e98315?tpId=85&&tqId=29896&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking)
