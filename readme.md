@@ -54,3 +54,4 @@
 - 52.py [句子反转](https://www.nowcoder.com/practice/0ae4a12ab0a048ee900d1536a6e98315?tpId=85&&tqId=29896&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking)
 - 53.py [求数列的和](https://www.nowcoder.com/practice/02f23a209c0c4d2484e29b560c174de1?tpId=85&&tqId=29893&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking)
 - 54.py [统计字符](https://www.nowcoder.com/practice/e3f67da21c3f45bfb091cf0cabb9bb0f?tpId=85&&tqId=29889&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking)
+- 55.py [身份证分组](https://www.nowcoder.com/practice/58766632a6cc45c0a1158fea2db91728?tpId=85&&tqId=29888&rp=2&ru=/activity/oj&qru=/ta/2017test/question-ranking)
