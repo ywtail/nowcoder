@@ -56,3 +56,4 @@
 - 54.py [统计字符](https://www.nowcoder.com/practice/e3f67da21c3f45bfb091cf0cabb9bb0f?tpId=85&&tqId=29889&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking)
 - 55.py [身份证分组](https://www.nowcoder.com/practice/58766632a6cc45c0a1158fea2db91728?tpId=85&&tqId=29888&rp=2&ru=/activity/oj&qru=/ta/2017test/question-ranking)
 - 56.py [filename extension](https://www.nowcoder.com/practice/7eb53c86e50845f6a2eafe7ea0fe9ef9?tpId=85&&tqId=29886&rp=2&ru=/activity/oj&qru=/ta/2017test/question-ranking)
+- 57.py [网格走法数目](https://www.nowcoder.com/practice/e27b9fc9c0ec4a17a5064fb6f5ab13e4?tpId=85&&tqId=29883&rp=2&ru=/activity/oj&qru=/ta/2017test/question-ranking)
