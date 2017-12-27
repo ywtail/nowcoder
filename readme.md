@@ -59,3 +59,4 @@
 - 57.py [网格走法数目](https://www.nowcoder.com/practice/e27b9fc9c0ec4a17a5064fb6f5ab13e4?tpId=85&&tqId=29883&rp=2&ru=/activity/oj&qru=/ta/2017test/question-ranking)
 - 58.py [游戏任务标记](https://www.nowcoder.com/practice/2f45f0ef94724e06a4173c91ef60781c?tpId=85&&tqId=29871&rp=3&ru=/activity/oj&qru=/ta/2017test/question-ranking)
 - 59.py [勇气获得机](https://www.nowcoder.com/test/8527168/summary)
+- 60.py [排列](https://www.nowcoder.com/test/8527168/summary)
