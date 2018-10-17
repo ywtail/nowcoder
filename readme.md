@@ -61,3 +61,4 @@
 - 59.py [勇气获得机](https://www.nowcoder.com/test/8527168/summary)
 - 60.py [排列](https://www.nowcoder.com/test/8527168/summary)
 - 61.py [打车](https://www.nowcoder.com/test/8527168/summary)
+- 62.cpp [质数因子](https://www.nowcoder.com/practice/196534628ca6490ebce2e336b47b3607?tpId=37&tqId=21229&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
