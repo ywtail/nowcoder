@@ -63,3 +63,4 @@
 - 61.py [打车](https://www.nowcoder.com/test/8527168/summary)
 - 62.cpp [质数因子](https://www.nowcoder.com/practice/196534628ca6490ebce2e336b47b3607?tpId=37&tqId=21229&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
 - 63.cpp [数字颠倒](https://www.nowcoder.com/practice/ae809795fca34687a48b172186e3dafe?tpId=37&tqId=21234&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
+- 64.cpp [字符个数统计(华为)](https://www.nowcoder.com/practice/eb94f6a5b2ba49c6ac72d40b5ce95f50?tpId=37&tqId=21233&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
