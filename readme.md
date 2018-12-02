@@ -66,3 +66,4 @@
 - 64.cpp [字符个数统计(华为)](https://www.nowcoder.com/practice/eb94f6a5b2ba49c6ac72d40b5ce95f50?tpId=37&tqId=21233&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
 - 65.cpp [字符串的连接最长路径查找(华为)](https://www.nowcoder.com/practice/5af18ba2eb45443aa91a11e848aa6723?tpId=37&tqId=21237&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
 - 66.cpp [求int型正整数在内存中存储时1的个数(华为)](https://www.nowcoder.com/practice/440f16e490a0404786865e99c6ad91c9?tpId=37&tqId=21238&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
+- 67.cpp [汽水瓶(华为)](https://www.nowcoder.com/practice/fe298c55694f4ed39e256170ff2c205f?tpId=37&tqId=21245&tPage=1&rp=&ru=/ta/huawei&qru=/ta/huawei/question-ranking)
